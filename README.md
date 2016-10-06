@@ -2,7 +2,7 @@
 
 Unshifts defined rewrites in `rewrites.json` created by `ember-cli-deploy-couchdb`.
 
-```
+``` javascript
 // deploy.js
 /* jshint node: true */
 
