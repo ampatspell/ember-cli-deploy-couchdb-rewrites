@@ -2,7 +2,10 @@
   "name": "ember-cli-deploy-couchdb-rewrites",
   "version": "0.0.1",
   "description": "Unshifts additional url rewrites for ember-cli-deploy-couchdb deployments",
-  "repository": "https://bitbucket.org/ampatspell/ember-cli-deploy-couchdb-rewrites",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ampatspell/ember-cli-deploy-couchdb-rewrites.git"
+  },
   "directories": {
     "doc": "doc",
     "test": "tests"
